@@ -689,8 +689,12 @@ a {
   transition: color 0.6s;
 }
 .cid-tnR4aQ44wC {
-  background-image: url("../../../assets/images/venkata-siva-900x500.jpg");
+  background-image: url("../../../assets/images/venkata-siva-900x500.jpeg");
 }
 .cid-tnR4aQ44wC .mbr-section-title {
   color: #0f0146;
+}
+.cid-tnR4aQ44wC .mbr-text,
+.cid-tnR4aQ44wC .mbr-section-btn {
+  color: #2299aa;
 }
